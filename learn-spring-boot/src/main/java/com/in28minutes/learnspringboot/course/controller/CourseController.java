@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -52,11 +53,17 @@ public class CourseController {
 		repository.save(course);
 
 	}
+	
 //	PUT - Update/Replace a resources (/courses/1)
 	@PutMapping("/courses/{id}")
 	public void updateCourse(@PathVariable long id, @RequestBody Course course) {
 		repository.save(course);
 	}
+	
 //	DELETE - Delete a resource (/courses/1)
+	@DeleteMapping("/courses/{id}")
+	public void deleteCourse(@PathVariable long id) {
+		repository.deleteById(id);
+	}
 	
 }
