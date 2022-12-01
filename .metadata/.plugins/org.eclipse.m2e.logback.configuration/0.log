@@ -654,3 +654,15 @@
 2022-11-30 15:13:11,539 [Worker-205: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2022-11-30 15:13:11,565 [Worker-205: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2022-11-30 15:13:11,568 [Worker-205: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/yonaswoldemichael/eclipse-workplace-spring/learn-spring-boot/src/test/resources
+2022-12-01 08:48:30,766 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-01 08:48:30,790 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-01 08:48:30,799 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/yonaswoldemichael/eclipse-workplace-spring/learn-spring-boot/src/test/resources
+2022-12-01 08:48:48,276 [Worker-218: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-01 08:48:48,304 [Worker-218: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-01 08:48:48,308 [Worker-218: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/yonaswoldemichael/eclipse-workplace-spring/learn-spring-boot/src/test/resources
+2022-12-01 08:53:57,757 [Worker-216: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-01 08:53:57,778 [Worker-216: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-01 08:53:57,789 [Worker-216: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/yonaswoldemichael/eclipse-workplace-spring/learn-spring-boot/src/test/resources
+2022-12-01 08:58:32,041 [Worker-221: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-01 08:58:32,075 [Worker-221: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-01 08:58:32,078 [Worker-221: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/yonaswoldemichael/eclipse-workplace-spring/learn-spring-boot/src/test/resources
